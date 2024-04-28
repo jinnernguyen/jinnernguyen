@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dang Jinner</h1>
 <h3 align="center">Chief Technology Officer of Webmaster Vietnam</h3>
+<p>
+  Dang Jinner, a tech enthusiast and innovator, currently serving as the CTO at Webmaster Vietnam - a tech startup based in Vietnam with a vision towards digital transformation and innovation. As a technology leader, I focus not only on developing outstanding products and services but also on laying a solid foundation for the company's sustainable success. My mission is to create cutting-edge technology solutions that deliver real value to customers and contribute to the development of the community. I'm ready to tackle new challenges and lead the technology team to even greater achievements.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangjinner&label=Profile%20views&color=0e75b6&style=flat" alt="dangjinner" /> </p>
 
