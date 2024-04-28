@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [dangjinner.com](dangjinner.com)
 
-- 💬 Ask me about **ReactJs/NextJs, PHP, Javascript**
+- 💬 Feel free to ask me about anything and everything related to technology
 
 - 📫 How to reach me **dangjinner.software@gmail.com**
 
