@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Hai Dang</h1>
-<h3 align="center">I'm a Full Stack Developer from Vietnam <img align="center" src="https://cdn-icons-png.flaticon.com/512/330/330465.png" alt="dangjinner" width="40" /></h3>
+<h3 align="center">I'm a Full Stack Developer from Vietnam <img align="center" src="https://cdn-icons-png.flaticon.com/512/330/330465.png" alt="dangjinner" width="25" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangjinner&label=Profile%20views&color=0e75b6&style=flat" alt="dangjinner" /> </p>
 
