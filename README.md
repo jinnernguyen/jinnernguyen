@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Hai Dang</h1>
 <h3 align="center">I'm a Full Stack Developer from Vietnam</h3>
-<p align="center">Passionate about technology and innovation, I am currently steering the ship as the Chief Technology Officer at Webmaster Vietnam - a dynamic tech startup rooted in Vietnam, dedicated to pioneering digital transformation and fostering innovation. As a visionary in the tech realm, I'm not just about crafting exceptional products and services; I'm committed to laying down the bedrock for our company's enduring prosperity. My mission? To architect cutting-edge tech solutions that not only add tangible value to our clientele but also catalyze communal progress. With each new challenge, I stand ready to lead our tech squad towards even loftier horizons.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangjinner&label=Profile%20views&color=0e75b6&style=flat" alt="dangjinner" /> </p>
 
